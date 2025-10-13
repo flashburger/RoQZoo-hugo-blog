@@ -56,8 +56,6 @@ header,
     padding-bottom: 0 !important;
 }
 
-/*수정*/
-/* 타이틀 영역 전체에 명조체 */
 
 
 /* 타이틀 */
@@ -75,7 +73,7 @@ header,
     font-size: 2.5rem !important;
     display: inline-block !important;
     line-height: 1.2 !important;
-    font-weight: 100 !important;
+    font-weight: 100 !important; /*타이틀 텍스트의 두께*/
 }
 
 /* 서브타이틀 - 이 부분 추가! */
@@ -137,6 +135,7 @@ body:not(.dark) a {
 }
 
 /* 다크모드 텍스트 색상 */
+/*메인화면은 화이트로 변함 */
 .dark .logo a {
     color: #ffffff !important;
 }
@@ -144,11 +143,11 @@ body:not(.dark) a {
 .dark .home-info .entry-content,
 .dark .post-entry .entry-content,
 .dark .entry-summary {
-    color: #cccccc !important;
+    color: #ffffff !important;
 }
 
 .dark .post-meta {
-    color: #999999 !important;
+    color: #ffffff !important;
 }
 
 
