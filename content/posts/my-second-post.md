@@ -1,6 +1,6 @@
 ---
 title: "두 번째 포스트"
-date: 2025-10-13
+date: 2025-10-12
 draft: false
 tags: ["", ""]
 ---

@@ -1,47 +1,56 @@
+# =========================================================================
+# 기본 사이트 설정
+# =========================================================================
 baseURL = 'https://flashburger.github.io/RoQZoo-hugo-blog/'
 languageCode = 'ko-kr'
 title = '日常雜記'
 theme = 'PaperMod'
 
+# =========================================================================
+# PaperMod 테마 파라미터 설정
+# =========================================================================
 [params]
-  defaultTheme = "auto"
-  ShowReadingTime = true
-  ShowShareButtons = false 
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
+defaultTheme = "auto"
+ShowReadingTime = false
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = true
+DateFormat = "2006년 1월 2일"
 
 [params.homeInfoParams]
-  Title = "소개글 👋"
-  Content = "저자 소개 입니다. 여기에 연락처"
-  
+Title = "소개글 👋"
+Content = "저자 소개 입니다. 여기에 연락처"
+
+# =========================================================================
+# 메인 메뉴 설정
+# =========================================================================
+[[menu.main]]
+name = "Archive"
+url = "/archives/"
+weight = 10
 
 [[menu.main]]
-  name = "Archive"
-  url = "/archives/"
-  weight = 10
+name = "Tags"
+url = "/tags/"
+weight = 20
 
 [[menu.main]]
-  name = "Tags"
-  url = "/tags/"
-  weight = 20
+name = "Search"
+url = "/search/"
+weight = 30
 
-[[menu.main]]
-  name = "Search"
-  url = "/search/"
-  weight = 30
-
-
-
-  # 기존 [params] 섹션 아래에 추가
+# =========================================================================
+# 소셜 아이콘 설정
+# =========================================================================
 [[params.socialIcons]]
-  name = "instagram"
-  url = "https://instagram.com/your_username"
+name = "instagram"
+url = "https://instagram.com/your_username"
 
 [[params.socialIcons]]
-  name = "x"
-  url = "https://x.com/your_username"
+name = "x"
+url = "https://x.com/your_username"
 
 [[params.socialIcons]]
-  name = "threads"
-  url = "https://threads.net/@your_username"
+name = "threads"
+url = "https://threads.net/@your_username"

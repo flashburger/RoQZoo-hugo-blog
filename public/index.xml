@@ -9,9 +9,25 @@
     <lastBuildDate>Mon, 13 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/RoQZoo-hugo-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>세번째 포스트</title>
+      <link>http://localhost:1313/RoQZoo-hugo-blog/posts/page3post/</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/RoQZoo-hugo-blog/posts/page3post/</guid>
+      <description>&lt;p&gt;나왔어 여보
+방금까지 보리가 막 됐다가 자기 오니까 갑자기 조용해지네
+보리가 왜 자꾸 짖는다고 해 저렇게 조용한데
+이것 봐봐 자기 못 믿을까 봐 내가 영상도 찍어 놨어 어 진짜 봐 왜 자기한테 만
+몰라 자꾸 나랑 단둘이 있을 때만 짖네&lt;/p&gt;
+&lt;p&gt;보리는 나와이프가 결혼하면서 키우기 시작한 강아지였다
+그런데 어느 날부터 평소 잘 짓지도 않던 녀석이 나와 단둘이 집에 있기만 하면 나를 보며 사납게 짓기 시작했다
+유튜브로 강아지 관련 영상도 찾아보고 동물병원에도 데려가 봤지만 보리가 짖는 이유를 찾지 못했다
+평일에는 그나마 내가 회사를 가서 집에 혼자 있는 경우가 자주 없어 괜찮았는데 문제는 주말이었다
+최근에 와이프가 친구랑 노느라 외출을 자주 했기에 주말에는 거의 다 혼자 집에 있어야 했고 보리는 와이프가 올 때까지 나를 보며 하루 종일 짖어댔다&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>두 번째 포스트</title>
       <link>http://localhost:1313/RoQZoo-hugo-blog/posts/my-second-post/</link>
-      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/RoQZoo-hugo-blog/posts/my-second-post/</guid>
       <description>&lt;p&gt;ある日の暮方の事である。一人の下人げにんが、羅生門らしょうもんの下で雨やみを待っていた。&lt;/p&gt;
 &lt;p&gt;広い門の下には、この男のほかに誰もいない。ただ、所々丹塗にぬりの剥はげた、大きな円柱まるばしらに、蟋蟀きりぎりすが一匹とまっている。羅生門が、朱雀大路すざくおおじにある以上は、この男のほかにも、雨やみをする市女笠いちめがさや揉烏帽子もみえぼしが、もう二三人はありそうなものである。それが、この男のほかには誰もいない。&lt;/p&gt;
@@ -53,7 +69,7 @@
     <item>
       <title>퍼스트 포스트</title>
       <link>http://localhost:1313/RoQZoo-hugo-blog/posts/my-first-post/</link>
-      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/RoQZoo-hugo-blog/posts/my-first-post/</guid>
       <description>&lt;p&gt;ある日の暮方の事である。一人の下人げにんが、羅生門らしょうもんの下で雨やみを待っていた。&lt;/p&gt;
 &lt;p&gt;広い門の下には、この男のほかに誰もいない。ただ、所々丹塗にぬりの剥はげた、大きな円柱まるばしらに、蟋蟀きりぎりすが一匹とまっている。羅生門が、朱雀大路すざくおおじにある以上は、この男のほかにも、雨やみをする市女笠いちめがさや揉烏帽子もみえぼしが、もう二三人はありそうなものである。それが、この男のほかには誰もいない。&lt;/p&gt;
