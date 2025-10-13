@@ -1,0 +1,47 @@
+baseURL = 'https://yourdomain.com/'
+languageCode = 'ko-kr'
+title = '日常雜記'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false 
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[params.homeInfoParams]
+  Title = "소개글 👋"
+  Content = "저자 소개 입니다. 여기에 연락처"
+  
+
+[[menu.main]]
+  name = "Archive"
+  url = "/archives/"
+  weight = 10
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 20
+
+[[menu.main]]
+  name = "Search"
+  url = "/search/"
+  weight = 30
+
+
+
+  # 기존 [params] 섹션 아래에 추가
+[[params.socialIcons]]
+  name = "instagram"
+  url = "https://instagram.com/your_username"
+
+[[params.socialIcons]]
+  name = "x"
+  url = "https://x.com/your_username"
+
+[[params.socialIcons]]
+  name = "threads"
+  url = "https://threads.net/@your_username"

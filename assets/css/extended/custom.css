@@ -1,0 +1,249 @@
+/* ========================================
+   폰트
+======================================== */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&display=swap');
+
+
+/* ========================================
+   격자 배경
+======================================== */
+/* 라이트모드 */
+html {
+    background-color: #fffff7 !important;
+    background-image:
+        linear-gradient(rgba(200, 200, 200, 0.5) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(200, 200, 200, 0.5) 1px, transparent 1px) !important;
+    background-size: 7px 7px !important;
+    background-attachment: fixed !important;
+}
+
+/* 다크모드 */
+body.dark ~ html,
+html:has(body.dark) {
+    background-color: #212121 !important;
+    background-image:
+        linear-gradient(rgba(100, 100, 100, 0.1) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(100, 100, 91000, 0.1) 1px, transparent 1px) !important;
+    background-size: 7px 7px !important;
+    background-attachment: fixed !important;
+}
+
+/* 배경 투명 설정 */
+body {
+    background: transparent !important;
+}
+
+.main, main {
+    background: transparent !important;
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+
+
+/* ========================================
+   헤더 영역
+======================================== */
+/* 헤더 레이아웃 */
+.nav {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    padding: 50px 0 5px 0 !important;
+    margin-bottom: 0 !important;
+}
+
+header,
+#header {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+/* 타이틀 */
+.logo {
+    text-align: center !important;
+    margin-bottom: 15px !important;
+    position: static !important;
+    background: transparent !important;
+    padding: 0 !important;
+}
+
+.logo a {
+    color: #000000 !important;
+    font-size: 2.5rem !important;
+    display: inline-block !important;
+    line-height: 1.2 !important;
+    font-family: 'Nanum Myeongjo', serif !important;
+    font-weight: 100 !important;
+}
+
+/* 서브타이틀 */
+.logo a::before {
+    content: "생각나는대로써보기";
+    display: block !important;
+    font-size: 1.2rem !important;
+    font-weight: 400 !important;
+    margin-bottom: 5px !important;
+    opacity: 0.7 !important;
+    color: inherit !important;
+    font-family: 'Nanum Myeongjo', serif !important;
+}
+
+/* 소셜 아이콘 */
+.social-icons-header {
+    display: flex !important;
+    justify-content: center !important;
+    gap: 15px !important;
+    margin: 0 0 20px 0 !important;
+}
+
+.social-icons-header a {
+    display: inline-flex !important;
+    align-items: center !important;
+    opacity: 0.8 !important;
+    transition: opacity 0.2s !important;
+}
+
+.social-icons-header a:hover {
+    opacity: 1 !important;
+}
+
+/* 메뉴 숨기기 */
+#menu {
+    display: none !important;
+}
+
+
+/* ========================================
+   색상 테마
+======================================== */
+/* 라이트모드 텍스트 색상 */
+body:not(.dark) {
+    color: #323f5b !important;
+}
+
+body:not(.dark) .logo a,
+body:not(.dark) .post-title,
+body:not(.dark) h1,
+body:not(.dark) h2,
+body:not(.dark) h3,
+body:not(.dark) .post-entry .entry-content,
+body:not(.dark) .entry-summary,
+body:not(.dark) p,
+body:not(.dark) a {
+    color: #323f5b !important;
+}
+
+/* 다크모드 텍스트 색상 */
+.dark .logo a {
+    color: #ffffff !important;
+}
+
+.dark .home-info .entry-content,
+.dark .post-entry .entry-content,
+.dark .entry-summary {
+    color: #cccccc !important;
+}
+
+.dark .post-meta {
+    color: #999999 !important;
+}
+
+
+/* ========================================
+   메인 페이지 - 포스트 목록
+======================================== */
+/* 소개글 숨기기 */
+.home-info,
+.profile {
+    display: none !important;
+}
+
+/* 포스트 카드 스타일 */
+.post-entry {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.post-entry:hover {
+    background: transparent !important;
+    transform: none !important;
+}
+
+.main > *:first-child,
+.post-entry:first-child {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+/* 포스트 타이틀 */
+.post-entry .entry-header h2,
+.post-title {
+    font-weight: 400 !important;
+    font-size: 1.5rem !important;
+}
+
+/* 포스트 요약 및 메타 정보 */
+.post-entry .entry-content,
+.entry-summary {
+    color: #333333 !important;
+}
+
+.post-meta {
+    color: #666666 !important;
+}
+
+
+/* ========================================
+   포스트 상세 페이지
+======================================== */
+/* Breadcrumb */
+.breadcrumbs {
+    padding: 0 !important;
+    max-width: 800px !important;
+    margin: 0 auto !important;
+}
+
+/* 포스트 헤더 */
+.post-header {
+    padding: 0 20px !important;
+    max-width: 800px !important;
+    margin: 0 auto !important;
+}
+
+.post-header h1,
+article .post-title {
+    font-weight: 400 !important;
+    font-size: 1.8rem !important;
+}
+
+/* 포스트 본문 */
+.post-content {
+    padding: 0 20px !important;
+    max-width: 800px !important;
+    margin: 10 auto !important;
+}
+
+.post-content p {
+    margin-bottom: 1.5em !important;
+    line-height: 1.8 !important;
+}
+
+.post-content h1,
+.post-content h2,
+.post-content h3 {
+    margin-top: 2em !important;
+    margin-bottom: 1em !important;
+}
+
+article.post-single {
+    padding: 10px !important;
+}
+
+
+/* ========================================
+   전역 설정
+======================================== */
+#content {
+    padding-top: 0 !important;
+}
