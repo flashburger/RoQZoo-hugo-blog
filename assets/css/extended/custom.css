@@ -1,7 +1,8 @@
 /* ========================================
    폰트
 ======================================== */
-@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@100;400;700;800&display=block');
+/* 구글 폰트의 다른 한글 명조체 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200;400;700&display=block');
 
 /* ========================================
    격자 배경
@@ -57,7 +58,7 @@ header,
 
 /* 타이틀 영역 전체에 명조체 */
 .logo, .logo * {
-    font-family: 'Nanum Myeongjo', '나눔명조', serif !important;
+    font-family: 'Noto Serif KR', '나눔명조', serif !important;
 }
 
 /* 타이틀 */
