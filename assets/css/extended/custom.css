@@ -2,6 +2,8 @@
    폰트
 ======================================== */
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@100;400;700;800&display=block') layer(fonts);
+
+
 /* ========================================
    격자 배경
 ======================================== */
@@ -36,7 +38,6 @@ body {
     padding-top: 0 !important;
     margin-top: 0 !important;
 }
-
 /* ========================================
    헤더 영역
 ======================================== */
@@ -78,6 +79,16 @@ header,
     font-weight: 100 !important;
 }
 
+/* 서브타이틀 - 이 부분 추가! */
+.logo a::before {
+    content: "생각나는대로써보기";
+    display: block !important;
+    font-size: 1.2rem !important;
+    font-weight: 400 !important;
+    margin-bottom: 5px !important;
+    opacity: 0.7 !important;
+    color: inherit !important;
+}
 
 
 
