@@ -58,9 +58,7 @@ header,
 
 /*수정*/
 /* 타이틀 영역 전체에 명조체 */
-.logo, .logo * {
-    font-family: 'Noto Serif KR', '나눔명조', serif !important;
-}
+
 
 /* 타이틀 */
 .logo {
