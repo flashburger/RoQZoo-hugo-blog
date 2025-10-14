@@ -14,10 +14,10 @@
 ======================================== */
 /* 라이트모드 */
 html {
-    background-color: #fffff7 !important;
+    background-color: #ffffff !important;
     background-image:
-        linear-gradient(rgba(200, 200, 200, 0.5) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(200, 200, 200, 0.5) 1px, transparent 1px) !important;
+        linear-gradient(rgba(244, 244, 244, 0.5) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(244, 244, 244, 0.5) 1px, transparent 1px) !important;
     background-size: 7px 7px !important;
     background-attachment: fixed !important;
 }
@@ -94,7 +94,7 @@ header,
     opacity: 0.7 !important;
     color: inherit !important;
 }
-/* 다크모드 버튼 위치 조정 */
+/* 다크모드 버튼 위치 조정 - 보이지 않게함*/
 .logo-switches {
     display: none !important;
 }
