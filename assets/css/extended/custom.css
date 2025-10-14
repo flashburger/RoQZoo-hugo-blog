@@ -16,8 +16,8 @@
 html {
     background-color: #ffffff !important;
     background-image:
-        linear-gradient(rgba(244, 244, 244, 0.5) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(244, 244, 244, 0.5) 1px, transparent 1px) !important;
+        linear-gradient(rgba(221, 221, 221, 0.5) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(221, 221, 221, 0.5) 1px, transparent 1px) !important;
     background-size: 7px 7px !important;
     background-attachment: fixed !important;
 }
