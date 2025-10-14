@@ -1,7 +1,7 @@
 /* ========================================
    폰트
 ======================================== */
-/* 타이틀/서브타이틀만 명조체 - 시스템 폰트 우선 */
+/* 타이틀/서브타이틀 명조체 - 시스템 폰트 */
 .logo,
 .logo *,
 .logo a,
@@ -10,9 +10,30 @@
 }
 
 /* ========================================
+   숨긴 기능들
+======================================== */
+
+/* 다크모드 버튼 숨기기 */
+.logo-switches {
+    display: none !important;
+}
+
+/* 메뉴 숨기기 */
+#menu {
+    display: none !important;
+}
+
+/* 소개글 숨기기 */
+.home-info,
+.profile {
+    display: none !important;
+}
+
+
+/* ========================================
    격자 배경
 ======================================== */
-/* 라이트모드 */
+/* 라이트모드 배경 */
 html {
     background-color: #ffffff !important;
     background-image:
@@ -22,7 +43,7 @@ html {
     background-attachment: fixed !important;
 }
 
-/* 다크모드 */
+/* 다크모드 배경 */
 body.dark ~ html,
 html:has(body.dark) {
     background-color: #212121 !important;
@@ -38,13 +59,13 @@ body {
     background: transparent !important;
 }
 
-
-
 .main, main {
     background: transparent !important;
     padding-top: 0 !important;
     margin-top: 0 !important;
 }
+
+
 /* ========================================
    헤더 영역
 ======================================== */
@@ -63,8 +84,6 @@ header,
     padding-bottom: 0 !important;
 }
 
-
-
 /* 타이틀 */
 .logo {
     text-align: center !important;
@@ -74,17 +93,14 @@ header,
     padding: 0 !important;
 }
 
-/* 타이틀 스타일 */
 .logo a {
-    color: #000000 !important;
     font-size: 2.5rem !important;
     display: inline-block !important;
     line-height: 1.2 !important;
-    font-weight: 100 !important; /*타이틀 텍스트의 두께*/
-
+    font-weight: 100 !important;
 }
 
-/* 서브타이틀 - 이 부분 추가! */
+/* 서브타이틀 */
 .logo a::before {
     content: "생각나는대로써보기";
     display: block !important;
@@ -93,10 +109,6 @@ header,
     margin-bottom: 5px !important;
     opacity: 0.7 !important;
     color: inherit !important;
-}
-/* 다크모드 버튼 위치 조정 - 보이지 않게함*/
-.logo-switches {
-    display: none !important;
 }
 
 
@@ -120,20 +132,14 @@ header,
     opacity: 1 !important;
 }
 
-/* 메뉴 숨기기 */
-#menu {
-    display: none !important;
-}
 
 
 /* ========================================
    색상 테마
 ======================================== */
-/* 라이트모드 텍스트 색상 */
-body:not(.dark) {
-    color: #323f5b !important;
-}
-
+/* 라이트모드 - 모든 텍스트 진한 청색 */
+body:not(.dark),
+body:not(.dark) *,
 body:not(.dark) .logo a,
 body:not(.dark) .post-title,
 body:not(.dark) h1,
@@ -143,21 +149,15 @@ body:not(.dark) .post-entry .entry-content,
 body:not(.dark) .entry-summary,
 body:not(.dark) p,
 body:not(.dark) a {
-    color: #323f5b !important;
+    color: #222f4a !important;
 }
 
-/* 다크모드 텍스트 색상 */
-/*메인화면은 화이트로 변함 */
-.dark .logo a {
-    color: #ffffff !important;
-}
-
-.dark .home-info .entry-content,
-.dark .post-entry .entry-content,
-.dark .entry-summary {
-    color: #ffffff !important;
-}
-
+/* 다크모드 - 모든 텍스트 흰색 */
+.dark,
+.dark *,
+.dark .logo a,
+.dark .post-content,
+.dark .post-content p,
 .dark .post-meta {
     color: #ffffff !important;
 }
@@ -166,11 +166,7 @@ body:not(.dark) a {
 /* ========================================
    메인 페이지 - 포스트 목록
 ======================================== */
-/* 소개글 숨기기 */
-.home-info,
-.profile {
-    display: none !important;
-}
+
 
 /* 포스트 카드 스타일 */
 .post-entry {
@@ -195,16 +191,6 @@ body:not(.dark) a {
 .post-title {
     font-weight: 400 !important;
     font-size: 1.5rem !important;
-}
-
-/* 포스트 요약 및 메타 정보 */
-.post-entry .entry-content,
-.entry-summary {
-    color: #333333 !important;
-}
-
-.post-meta {
-    color: #666666 !important;
 }
 
 
@@ -235,7 +221,7 @@ article .post-title {
 .post-content {
     padding: 0 20px !important;
     max-width: 800px !important;
-    margin: 10 auto !important;
+    margin: 10px auto !important;
 }
 
 .post-content p {
@@ -254,9 +240,18 @@ article.post-single {
     padding: 10px !important;
 }
 
+/* 포스트 네비게이션 버튼 투명하게 */
+.paginav,
+.paginav a {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
 
-
-
+.paginav a:hover {
+    background: transparent !important;
+    transform: none !important;
+}
 
 
 /* ========================================
