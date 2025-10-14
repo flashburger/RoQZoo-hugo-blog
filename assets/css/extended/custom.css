@@ -72,8 +72,6 @@ header,
     position: static !important;
     background: transparent !important;
     padding: 0 !important;
-    display: block !important; /* 추가 */
-    width: 100% !important; /* 추가 */
 }
 
 /* 타이틀 스타일 */
@@ -83,7 +81,7 @@ header,
     display: inline-block !important;
     line-height: 1.2 !important;
     font-weight: 100 !important; /*타이틀 텍스트의 두께*/
-    position: relative !important; /* 추가 */
+
 }
 
 /* 서브타이틀 - 이 부분 추가! */
