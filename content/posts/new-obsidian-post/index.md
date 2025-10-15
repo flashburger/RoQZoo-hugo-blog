@@ -1,5 +1,5 @@
 ---
-title: index
+title: 김치찌개란 무엇인가
 date: 2025-10-15T20:27:28+09:00
 draft: false
 tags:
