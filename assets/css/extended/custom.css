@@ -240,6 +240,12 @@ article.post-single {
     padding: 10px !important;
 }
 
+
+/* 포스트 본문에서 커버 이미지 숨기기 */
+.post-single .entry-cover {
+    display: none !important;
+}
+
 /* 포스트 네비게이션 버튼 투명하게 */
 .paginav,
 .paginav a {
@@ -249,6 +255,19 @@ article.post-single {
 }
 
 .paginav a:hover {
+    background: transparent !important;
+    transform: none !important;
+}
+
+/* 전체 게시글 네비게이션 버튼 투명하게 */
+.pagination,
+.pagination a {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.pagination a:hover {
     background: transparent !important;
     transform: none !important;
 }
