@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/obsidian-Test/index.md",
+                "file": "content/posts/new-obsidian-post/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,11 +172,15 @@
   },
   "active": "161803792c4bdc03",
   "lastOpenFiles": [
+    "_templates/obsidian-templat.md",
+    "content/posts/new-obsidian-post/index.md",
+    "content/posts/new-obsidian-post/thumbnail.jpg",
+    "content/posts/new-obsidian-post/image1.jpg",
+    "content/posts/obsidian-Test/index.md",
+    "content/posts/new-obsidian-post",
     "content/posts/obsidian-Test/thumbnail.jpg",
     "content/posts/obsidian-Test/image1.jpg",
-    "content/posts/obsidian-Test/index.md",
     "content/posts/ThumbnailTest-01/index.md",
-    "_templates/obsidian-templat.md",
     "_templates/obsidian-template",
     "_templates",
     "무제 폴더",
