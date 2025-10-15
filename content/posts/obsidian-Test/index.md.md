@@ -1,12 +1,14 @@
 ---
-title: "index.md" # <--- Obsidian 변수: 새 노트의 파일 이름이 제목이 됩니다
-date: 2025-10-15T19:23:04+09:00 # <--- Obsidian 변수: 현재 날짜와 시간을 Hugo 형식으로 삽입
-draft: true
-tags: ["새태그"]
-categories: ["미분류"]
+title: index.md
+date: 2025-10-15T19:23:04+09:00
+draft: false
+tags:
+  - 새태그
+categories:
+  - 미분류
 cover:
-    image: "thumbnail.jpg" # 포스트 폴더에 있는 파일을 커버 이미지로 지정
-    alt: "index.md의 썸네일"
+  image: thumbnail.jpg
+  alt: index.md의 썸네일
 ---
 
 ## 서론
