@@ -13,7 +13,9 @@
       <link>http://localhost:1313/RoQZoo-hugo-blog/posts/thumbnailtest-01/</link>
       <pubDate>Wed, 15 Oct 2025 09:36:46 +0900</pubDate>
       <guid>http://localhost:1313/RoQZoo-hugo-blog/posts/thumbnailtest-01/</guid>
-      <description>&lt;p&gt;본문 : 썸네일 테스트 입니다&lt;/p&gt;</description>
+      <description>&lt;p&gt;본문 내용&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;이미지 설명&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/RoQZoo-hugo-blog/posts/thumbnailtest-01/image1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;더 많은 내용&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
