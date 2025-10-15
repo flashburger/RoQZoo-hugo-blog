@@ -11,14 +11,12 @@
             "id": "161803792c4bdc03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/posts/obsidian-Test/index.md.md",
-                "mode": "source",
-                "source": false
+                "file": "content/posts/obsidian-Test/thumbnail.jpg"
               },
-              "icon": "lucide-file",
-              "title": "index.md"
+              "icon": "lucide-image",
+              "title": "thumbnail"
             }
           }
         ]
@@ -172,9 +170,9 @@
   },
   "active": "161803792c4bdc03",
   "lastOpenFiles": [
-    "content/posts/ThumbnailTest-01/index.md",
-    "content/posts/obsidian-Test/index.md.md",
     "content/posts/obsidian-Test/image1.jpg",
+    "content/posts/obsidian-Test/index.md.md",
+    "content/posts/ThumbnailTest-01/index.md",
     "content/posts/obsidian-Test/thumbnail.jpg",
     "_templates/obsidian-templat.md",
     "_templates/obsidian-template",
