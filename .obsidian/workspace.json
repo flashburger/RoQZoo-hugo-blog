@@ -11,10 +11,14 @@
             "id": "161803792c4bdc03",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/myFirst-post/firstNote.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "firstNote"
             }
           }
         ]
@@ -168,6 +172,8 @@
   },
   "active": "161803792c4bdc03",
   "lastOpenFiles": [
+    "content/posts/myFirst-post/firstNote.md",
+    "content/posts/myFirst-post",
     "_templates/obsidian-templat.md",
     "content/posts/new-obsidian-post/index.md",
     "content/posts/new-obsidian-post/thumbnail.jpg",
