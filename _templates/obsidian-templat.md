@@ -2,13 +2,12 @@
 title: "{{title}}" # <--- Obsidian 변수: 새 노트의 파일 이름이 제목이 됩니다
 date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss}}+09:00 # <--- Obsidian 변수: 현재 날짜와 시간을 Hugo 형식으로 삽입
 draft: true
-tags: ["새태그"]
 categories: ["미분류"]
 cover:
     image: "thumbnail.jpg" # 포스트 폴더에 있는 파일을 커버 이미지로 지정
     alt: "{{title}}의 썸네일"
 ---
-
+tags: ["새태그"]
 ## 서론
 
 여기에 포스트의 핵심 내용을 요약하여 작성합니다.
