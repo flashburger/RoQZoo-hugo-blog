@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/obsidian-Test/index.md",
+                "file": "content/posts/obsidian-ipad-test/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,6 +172,8 @@
   },
   "active": "d4c6569741b9623b",
   "lastOpenFiles": [
+    "_ideas/아이디어-문서 테스트.md",
+    "content/posts/obsidian-ipad-test/index.md",
     "content/posts/obsidian-Test/index.md",
     "_templates/obsidian-templat.md",
     "content/posts/obsidian-Test",
