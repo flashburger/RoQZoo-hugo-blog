@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0fe9bd43584a86b2",
+        "id": "696ada87140e5b7d",
         "type": "tabs",
         "children": [
           {
-            "id": "34d79789a9836d95",
+            "id": "811bbe3566d4a15e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,7 +152,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "34d79789a9836d95",
+  "active": "811bbe3566d4a15e",
   "lastOpenFiles": [
     "content/posts/obsidian-Test/index.md",
     "_ideas"
