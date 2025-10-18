@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f3f3da0af5fa48a7",
+        "id": "16f107f1af7da666",
         "type": "tabs",
         "children": [
           {
-            "id": "ba94367e332df6f5",
+            "id": "193c4b9f1710df0a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,7 +166,7 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "ba94367e332df6f5",
+  "active": "193c4b9f1710df0a",
   "lastOpenFiles": [
     "content/posts/obsidian-ipad-test/index.md",
     "content/posts/obsidian-Test/index.md",
