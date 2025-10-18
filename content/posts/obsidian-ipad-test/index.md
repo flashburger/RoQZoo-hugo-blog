@@ -4,9 +4,6 @@ date: 2025-10-18T22:37:12+09:00
 draft: false
 categories:
   - 미분류
-cover:
-  image: thumbnail.jpg
-  alt: index의 썸네일
 ---
 
 이 문서는 아이패드 옵시디언에서 생성되고 작성된 문서입니다. 
@@ -16,3 +13,13 @@ cover:
 여기다 만들고
 
 draft만 체크하는게 나을 수 도 있겠다. 
+
+
+이것은 터미널로 테스트 해보는 거야  
+
+proj
+
+gpush
+
+
+테스트 
