@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "193c4b9f1710df0a",
+            "id": "fab91ec1af94b8cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,13 +170,13 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "193c4b9f1710df0a",
+  "active": "fab91ec1af94b8cc",
   "lastOpenFiles": [
-    "_ideas/index.md",
-    "_ideas/Untitled.md",
     "conflict-files-obsidian-git.md",
-    "무제.md",
+    "_ideas/index.md",
     "content/posts/obsidian-ipad-test/index.md",
+    "_ideas/Untitled.md",
+    "무제.md",
     "content/posts/obsidian-Test/index.md",
     "_ideas/아이디어-문서 테스트.md",
     "_templates/obsidian-templat.md",
