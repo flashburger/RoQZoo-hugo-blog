@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "b54a7a4be002c5d7",
         "type": "tabs",
         "children": [
           {
             "id": "88358c318b8e248a",
+=======
+        "id": "1267a8677e40dc09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60264b98ee3c7136",
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,7 +156,11 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< HEAD
   "active": "88358c318b8e248a",
+=======
+  "active": "60264b98ee3c7136",
+>>>>>>> origin/main
   "lastOpenFiles": [
     "_ideas/그래픽 티셔츠 사업 자료.md",
     "_ideas/결국 커뮤니티-단골고객확보전략인가.md",
@@ -158,6 +170,10 @@
     "content/posts/obsidian-Test/index.md",
     "content/posts/obsidian-ipad-test/index.md",
     "content/posts/obsidian-ipad-test",
+<<<<<<< HEAD
+=======
+    "_ideas/아이디어-문서 테스트.md",
+>>>>>>> origin/main
     "public/posts/obsidian-ipad-test",
     "_ideas"
   ]

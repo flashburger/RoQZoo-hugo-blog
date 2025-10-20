@@ -1,6 +1,10 @@
 {
+<<<<<<< HEAD
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "_ideas",
   "alwaysUpdateLinks": true
+=======
+  "promptDelete": false
+>>>>>>> origin/main
 }
