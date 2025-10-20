@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1267a8677e40dc09",
+        "id": "cb3b7f7cf5ae5295",
         "type": "tabs",
         "children": [
           {
-            "id": "60264b98ee3c7136",
+            "id": "f67c4a3205c50ec8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_ideas/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -148,12 +152,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "60264b98ee3c7136",
+  "active": "f67c4a3205c50ec8",
   "lastOpenFiles": [
+    "_ideas/아이디어-문서 테스트.md",
+    "_ideas/index.md",
+    "conflict-files-obsidian-git.md",
     "content/posts/obsidian-Test/index.md",
     "content/posts/obsidian-ipad-test/index.md",
     "content/posts/obsidian-ipad-test",
-    "_ideas/아이디어-문서 테스트.md",
     "public/posts/obsidian-ipad-test",
     "_ideas"
   ]
