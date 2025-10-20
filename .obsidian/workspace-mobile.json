@@ -5,11 +5,19 @@
     "children": [
       {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "id": "b54a7a4be002c5d7",
         "type": "tabs",
         "children": [
           {
             "id": "88358c318b8e248a",
+=======
+        "id": "1267a8677e40dc09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60264b98ee3c7136",
+>>>>>>> origin/main
 =======
         "id": "1267a8677e40dc09",
         "type": "tabs",
@@ -157,7 +165,11 @@
     }
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "88358c318b8e248a",
+=======
+  "active": "60264b98ee3c7136",
+>>>>>>> origin/main
 =======
   "active": "60264b98ee3c7136",
 >>>>>>> origin/main
@@ -171,6 +183,10 @@
     "content/posts/obsidian-ipad-test/index.md",
     "content/posts/obsidian-ipad-test",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    "_ideas/아이디어-문서 테스트.md",
+>>>>>>> origin/main
 =======
     "_ideas/아이디어-문서 테스트.md",
 >>>>>>> origin/main
