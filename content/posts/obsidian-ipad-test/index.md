@@ -15,3 +15,5 @@ categories:
 강제 리셋 git reset HEAD 해서 다시 시도해서 되었음...
 다시 한번 시작
 
+
+
