@@ -5,9 +5,6 @@ draft: false
 categories:
 tags:
 summary: 이것은 본문의 내용을 미리 확인할 수 있는 써머리 내용입니다. 본문을 읽지 않아도 이내용만 있으면 미리 짐작할 수 있어요
-cover:
-  image: thumbnail.jpg
-  alt: index의 썸네일
 ---
 
 
