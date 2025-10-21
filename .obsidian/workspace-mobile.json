@@ -1,36 +1,24 @@
 {
   "main": {
-    "id": "3e6995b3194e98f9",
+    "id": "e50bdb66f698d748",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-<<<<<<< HEAD
-        "id": "b54a7a4be002c5d7",
+        "id": "6cb13acc6c3f841e",
         "type": "tabs",
         "children": [
           {
-            "id": "88358c318b8e248a",
-=======
-        "id": "1267a8677e40dc09",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "60264b98ee3c7136",
->>>>>>> origin/main
-=======
-        "id": "1267a8677e40dc09",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "60264b98ee3c7136",
->>>>>>> origin/main
+            "id": "c8fc748eba4676bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_ideas/아이디어-문서 테스트.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "아이디어-문서 테스트"
             }
           }
         ]
@@ -39,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "041821599fa64d16",
+    "id": "09fe835ddc58361d",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b283ccda1e428b41",
+        "id": "e1e78cf2ecce9711",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -56,7 +44,7 @@
         }
       },
       {
-        "id": "3c70a165f4f912ea",
+        "id": "65a9b2118710d00d",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -73,7 +61,7 @@
         }
       },
       {
-        "id": "70a91efbddc26462",
+        "id": "241f606e071cb284",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -88,7 +76,7 @@
         }
       },
       {
-        "id": "239edddb581d8f32",
+        "id": "f15503274d564309",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -101,15 +89,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "58924940646f97f3",
+    "id": "7503dc047f82f527",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "a722536cd7ee7264",
+        "id": "d968a34a9bacf1c5",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "content/posts/obsidian-ipad-test/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,11 +112,12 @@
         }
       },
       {
-        "id": "9620ddce9e9489c2",
+        "id": "e04b263609a77d30",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "content/posts/obsidian-ipad-test/index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -136,11 +126,12 @@
         }
       },
       {
-        "id": "48e9795c5798d32a",
+        "id": "1c0ae8ab5846c889",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
+            "file": "content/posts/obsidian-ipad-test/index.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -154,43 +145,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "active": "88358c318b8e248a",
-=======
-  "active": "60264b98ee3c7136",
->>>>>>> origin/main
-=======
-  "active": "60264b98ee3c7136",
->>>>>>> origin/main
+  "active": "c8fc748eba4676bf",
   "lastOpenFiles": [
-    "_ideas/그래픽 티셔츠 사업 자료.md",
-    "_ideas/결국 커뮤니티-단골고객확보전략인가.md",
-    "conflict-files-obsidian-git.md",
+    "_ideas/이것은 아이패드에서 작성한 문서.md",
     "_ideas/아이디어-문서 테스트.md",
-    "_ideas/index.md",
-    "content/posts/obsidian-Test/index.md",
     "content/posts/obsidian-ipad-test/index.md",
-    "content/posts/obsidian-ipad-test",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-    "_ideas/아이디어-문서 테스트.md",
->>>>>>> origin/main
-=======
-    "_ideas/아이디어-문서 테스트.md",
->>>>>>> origin/main
-    "public/posts/obsidian-ipad-test",
-    "_ideas"
+    "이건 아이패드 옵시디어에서 작성한 문서.md"
   ]
 }
