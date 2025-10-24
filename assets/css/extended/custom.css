@@ -206,11 +206,11 @@ article .post-title {
     font-size: 1.8rem !important;
 }
 
-/* 포스트 본문 */
+/* 포스트 본문 - 모든 화면 기본 설정 */
 .post-content {
-    padding: 0 20px !important;
-    max-width: none !important;
-    margin: 10px auto !important;
+    padding: 0 30px !important;
+    max-width: 1200px !important;  /* 최대 폭 제한 */
+    margin: 10px auto !important;  /* 중앙 정렬 */
 }
 
 .post-content p {
