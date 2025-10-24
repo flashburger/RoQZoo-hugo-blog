@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a657bad98693d52",
+        "id": "3dcda9edfc56359e",
         "type": "tabs",
         "children": [
           {
-            "id": "7d12c9efeef05704",
+            "id": "7e3692404cac4eae",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -151,10 +151,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d12c9efeef05704",
+  "active": "7e3692404cac4eae",
   "lastOpenFiles": [
-    "_ideas/이것은 아이패드에서 작성한 문서.md",
     "content/posts/summary-test/index.md",
+    "_ideas/이것은 아이패드에서 작성한 문서.md",
     "content/posts/obsidian-ipad-test/index.md",
     "_ideas/아이디어-문서 테스트.md",
     "이건 아이패드 옵시디어에서 작성한 문서.md"
