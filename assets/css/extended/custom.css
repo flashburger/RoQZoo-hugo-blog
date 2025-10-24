@@ -12,23 +12,13 @@
 /* ========================================
    숨긴 기능들
 ======================================== */
-
-/* 다크모드 버튼 숨기기 */
-.logo-switches {
-    display: none !important;
-}
-
-/* 메뉴 숨기기 */
-#menu {
-    display: none !important;
-}
-
-/* 소개글 숨기기 */
+/* 다크모드 버튼, 메뉴, 소개글 숨기기 */
+.logo-switches,
+#menu,
 .home-info,
 .profile {
     display: none !important;
 }
-
 
 /* ========================================
    격자 배경
@@ -55,16 +45,17 @@ html:has(body.dark) {
 }
 
 /* 배경 투명 설정 */
-body {
+body,
+.main,
+main {
     background: transparent !important;
 }
 
-.main, main {
-    background: transparent !important;
+.main,
+main {
     padding-top: 0 !important;
     margin-top: 0 !important;
 }
-
 
 /* ========================================
    헤더 영역
@@ -111,8 +102,6 @@ header,
     color: inherit !important;
 }
 
-
-
 /* 소셜 아이콘 */
 .social-icons-header {
     display: flex !important;
@@ -131,8 +120,6 @@ header,
 .social-icons-header a:hover {
     opacity: 1 !important;
 }
-
-
 
 /* ========================================
    색상 테마
@@ -162,12 +149,9 @@ body:not(.dark) a {
     color: #ffffff !important;
 }
 
-
 /* ========================================
    메인 페이지 - 포스트 목록
 ======================================== */
-
-
 /* 포스트 카드 스타일 */
 .post-entry {
     background: transparent !important;
@@ -193,22 +177,26 @@ body:not(.dark) a {
     font-size: 1.5rem !important;
 }
 
-
 /* ========================================
    포스트 상세 페이지
 ======================================== */
+/* 전체 포스트 컨테이너 - 폭 제한 해제 */
+article.post-single {
+    max-width: none !important;
+    padding: 10px !important;
+}
+
 /* Breadcrumb */
 .breadcrumbs {
-    padding: 0 !important;
-    max-width: none !important;  /* 제한 없음 */
+    padding: 0 20px !important;
+    max-width: none !important;
     margin: 0 auto !important;
 }
 
-
 /* 포스트 헤더 */
 .post-header {
-    padding: 0 60px !important;  /* 여백만 확보 */
-    max-width: none !important;  /* 제한 없음 */
+    padding: 0 20px !important;
+    max-width: none !important;
     margin: 0 auto !important;
 }
 
@@ -220,8 +208,8 @@ article .post-title {
 
 /* 포스트 본문 */
 .post-content {
-    padding: 0 60px !important;  /* 여백만 확보 */
-    max-width: none !important;  /* 제한 없음 */
+    padding: 0 20px !important;
+    max-width: none !important;
     margin: 10px auto !important;
 }
 
@@ -237,30 +225,37 @@ article .post-title {
     margin-bottom: 1em !important;
 }
 
-article.post-single {
-    padding: 10px !important;
-}
-
-
 /* 포스트 본문에서 커버 이미지 숨기기 */
 .post-single .entry-cover {
     display: none !important;
 }
 
-/* 포스트 네비게이션 버튼 투명하게 */
+/* 반응형: 태블릿 이상 */
+@media screen and (min-width: 768px) {
+    .breadcrumbs,
+    .post-header,
+    .post-content {
+        padding-left: 40px !important;
+        padding-right: 40px !important;
+    }
+}
+
+/* 반응형: 데스크톱 */
+@media screen and (min-width: 1024px) {
+    .breadcrumbs,
+    .post-header,
+    .post-content {
+        padding-left: 60px !important;
+        padding-right: 60px !important;
+    }
+}
+
+/* ========================================
+   네비게이션
+======================================== */
+/* 포스트 네비게이션 버튼 */
 .paginav,
-.paginav a {
-    background: transparent !important;
-    border: none !important;
-    box-shadow: none !important;
-}
-
-.paginav a:hover {
-    background: transparent !important;
-    transform: none !important;
-}
-
-/* 전체 게시글 네비게이션 버튼 투명하게 */
+.paginav a,
 .pagination,
 .pagination a {
     background: transparent !important;
@@ -268,11 +263,11 @@ article.post-single {
     box-shadow: none !important;
 }
 
+.paginav a:hover,
 .pagination a:hover {
     background: transparent !important;
     transform: none !important;
 }
-
 
 /* ========================================
    전역 설정
