@@ -190,13 +190,13 @@ article.post-single {
 .breadcrumbs,
 .post-header,
 .post-content {
-    padding: 0 10px !important;
+    padding: 0 0px !important;
     max-width: none !important;
     margin: 0 auto !important;
 }
 
 .post-content {
-    margin-top: 10px !important;
+    margin-top: 0px !important;
 }
 
 /* 포스트 타이틀 */
