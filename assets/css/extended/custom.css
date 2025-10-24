@@ -190,13 +190,14 @@ article.post-single {
 .breadcrumbs,
 .post-header,
 .post-content {
-    padding: 0 0px !important;
+    padding: 0 0px !important; /* 두번째 값을 바꾸면 좌우 여백 조정 가능 */
     max-width: none !important;
     margin: 0 auto !important;
 }
 
+/* 본문 상단 여백 */
 .post-content {
-    margin-top: 30px !important;
+    margin-top: 30px !important; /* 제목과 본문 사이의 간격 */
 }
 
 /* 포스트 타이틀 */
