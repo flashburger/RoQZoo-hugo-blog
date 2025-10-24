@@ -247,6 +247,11 @@ article .post-title {
 /* ========================================
    전역 설정
 ======================================== */
+
+html {
+    font-size: 18px !important; /* 기본 폰트 크기 (기본값 16px) */
+}
+
 #content {
     padding-top: 0 !important;
 }
