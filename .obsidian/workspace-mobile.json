@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3dcda9edfc56359e",
+        "id": "a580369c53af2921",
         "type": "tabs",
         "children": [
           {
-            "id": "7e3692404cac4eae",
+            "id": "db9f8c08b2aba40f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_ideas/싸움의 기술-강냉이펀치.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "싸움의 기술-강냉이펀치"
             }
           }
         ]
@@ -151,12 +155,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e3692404cac4eae",
+  "active": "db9f8c08b2aba40f",
   "lastOpenFiles": [
-    "content/posts/summary-test/index.md",
-    "_ideas/이것은 아이패드에서 작성한 문서.md",
-    "content/posts/obsidian-ipad-test/index.md",
+    "_ideas/싸움의 기술-강냉이펀치.md",
+    "_ideas/아들이 너무 유약한 것 같다.md",
+    "_ideas/싸움의기술.md",
+    "Untitled.md",
+    "아들아, 강해져라.md",
+    "Untitled 1.md",
+    "_ideas/생각의 교차점-그래서 뭐 건졌어요?.md",
     "_ideas/아이디어-문서 테스트.md",
+    "_ideas/이것은 아이패드에서 작성한 문서.md",
+    "content/posts/summary-test/index.md",
+    "content/posts/obsidian-ipad-test/index.md",
     "이건 아이패드 옵시디어에서 작성한 문서.md"
   ]
 }

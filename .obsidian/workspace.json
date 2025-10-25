@@ -11,10 +11,14 @@
             "id": "fab91ec1af94b8cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_ideas/싸움의 기술-강냉이펀치.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "싸움의 기술-강냉이펀치"
             }
           }
         ]
@@ -168,6 +172,9 @@
   },
   "active": "fab91ec1af94b8cc",
   "lastOpenFiles": [
+    "_ideas/생각의 교차점-그래서 뭐 건졌어요?.md",
+    "_ideas/싸움의기술.md",
+    "_ideas/싸움의 기술-강냉이펀치.md",
     "content/posts/obsidian-ipad-test/index.md",
     "content/posts/obsidian-Test/index.md",
     "content/posts/summary-test/index.md",
