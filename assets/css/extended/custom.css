@@ -6,8 +6,10 @@
 .logo *,
 .logo a,
 .logo a::before {
-    font-family: "HiraMinProN-W6", "Hiragino Mincho ProN", "Yu Mincho", "YuMincho", "Noto Serif KR", "Source Han Serif K", serif !important;
+  font-family: "Noto Serif KR", "Source Han Serif K", "HiraMinProN-W6", "Hiragino Mincho ProN", "Yu Mincho", "YuMincho", serif !important;
 }
+
+/**/
 
 /* ========================================
    숨긴 기능들
