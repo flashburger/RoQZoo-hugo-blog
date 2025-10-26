@@ -1,13 +1,22 @@
 /* ========================================
    폰트
 ======================================== */
-/* 타이틀/서브타이틀 명조체 - 시스템 폰트 */
+//* 타이틀/서브타이틀 명조체 */
 .logo,
 .logo *,
 .logo a,
 .logo a::before {
-    font-family: "HiraMinProN-W6", "Hiragino Mincho ProN", "Yu Mincho", "YuMincho", "Noto Serif KR", "Source Han Serif K", serif !important;
+  font-family: 
+    "Noto Serif KR",              /* 한글 명조체 (웹폰트) */
+    "HiraMinProN-W6",             /* 일본 명조체 (한자용) */
+    "Hiragino Mincho ProN",
+    "Yu Mincho",
+    "YuMincho",
+    "Source Han Serif K",
+    serif !important;
+  font-weight: 600;
 }
+
 
 /* ========================================
    숨긴 기능들
