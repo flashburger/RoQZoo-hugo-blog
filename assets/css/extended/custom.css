@@ -6,9 +6,8 @@
 .logo *,
 .logo a,
 .logo a::before {
-  font-family: "Noto Serif KR", "HiraMinProN-W6", "Hiragino Mincho ProN", "Yu Mincho", "YuMincho", "Source Han Serif K", serif !important;
+  font-family: "HiraMinProN-W6", "Hiragino Mincho ProN", "Yu Mincho", "YuMincho", "Noto Serif KR", "Source Han Serif K", serif !important;
 }
-
 /**/
 
 /* ========================================
