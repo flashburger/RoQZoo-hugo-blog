@@ -102,9 +102,37 @@
               "icon": "lucide-file",
               "title": "유튜브.기획.지식채널.채널컨셉.정체성"
             }
+          },
+          {
+            "id": "fd9e27f58d1353a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ideas/유튜브.기획.지식채널.소재리스트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "유튜브.기획.지식채널.소재리스트"
+            }
+          },
+          {
+            "id": "f79341e067505efc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ideas/무제.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "무제"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -263,10 +291,12 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "41222de9b4201449",
+  "active": "f79341e067505efc",
   "lastOpenFiles": [
-    "_ideas/유튜브.기획.지식채널.아동용컨텐츠.장단점.md",
+    "_ideas/유튜브.기획.지식채널.소재리스트.md",
+    "_ideas/무제.md",
     "_ideas/유튜브.기획.지식채널.채널컨셉.정체성.md",
+    "_ideas/유튜브.기획.지식채널.아동용컨텐츠.장단점.md",
     "_ideas/싸움의 기술-강냉이펀치.md",
     "_ideas/유튜브.기획.지식채널.소재구축프로세스.md",
     "_ideas/유튜브.기획.지식채널.소재구축프로세스.책활용.md",
@@ -290,9 +320,7 @@
     "conflict-files-obsidian-git.md",
     "_ideas/index.md",
     "_ideas/Untitled.md",
-    "무제.md",
     "content/posts/obsidian-Test",
-    "content/posts/myFirst-post/firstNote.md",
     "content/posts/myFirst-post",
     "content/posts/new-obsidian-post/thumbnail.jpg",
     "content/posts/new-obsidian-post/image1.jpg",
