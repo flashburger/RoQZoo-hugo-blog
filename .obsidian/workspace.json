@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "볼펜 잉크 끝까지 써본적있수?"
             }
+          },
+          {
+            "id": "c446199e0fbfc84b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "8457d5fe88247804",
+  "active": "c446199e0fbfc84b",
   "lastOpenFiles": [
     "_ideas/무제.md",
     "_ideas/볼펜 잉크 끝까지 써본적있수?.md",
