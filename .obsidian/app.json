@@ -2,5 +2,6 @@
   "promptDelete": false,
   "attachmentFolderPath": "/",
   "newFileLocation": "folder",
-  "newFileFolderPath": "_ideas"
+  "newFileFolderPath": "_ideas",
+  "alwaysUpdateLinks": true
 }
