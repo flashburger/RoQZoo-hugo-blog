@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "클로드.MCP.웹소설세팅"
             }
+          },
+          {
+            "id": "f70002ed255dc020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ideas/웹소설.기획.남성향무협.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "웹소설.기획.남성향무협"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,10 +209,11 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "8a5c91eff9739d5e",
+  "active": "f70002ed255dc020",
   "lastOpenFiles": [
-    "_ideas/유튜브.기획.ADHD애니메이션.채널컨셉.md",
     "_ideas/클로드.MCP.웹소설세팅.md",
+    "_ideas/웹소설.기획.남성향무협.md",
+    "_ideas/유튜브.기획.ADHD애니메이션.채널컨셉.md",
     "_ideas/유튜브.기획.지식채널.소재리스트.md",
     "_ideas/유튜브.기획.지식채널.채널컨셉.정체성.md",
     "_ideas/질보다양-이야기 체조-랜덤쓰기.md",
@@ -223,7 +238,6 @@
     "_templates/obsidian-templat.md",
     "content/posts/summary-test",
     "_ideas/이것은 아이패드에서 작성한 문서.md",
-    "_ideas/아이디어-문서 테스트.md",
     "content/posts/obsidian-Test",
     "content/posts/myFirst-post",
     "content/posts/new-obsidian-post/thumbnail.jpg",
