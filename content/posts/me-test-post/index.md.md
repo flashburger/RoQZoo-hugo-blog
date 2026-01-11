@@ -7,9 +7,6 @@ categories:
 tags:
   - 새태그
 summary: 메인 화면에 보일 요약을 여기에 작성하세요
-cover:
-  image: thumbnail.jpg
-  alt: index.md의 썸네일
 ---
 
 
