@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8fc053e45457d885",
+        "id": "074c70192949d245",
         "type": "tabs",
         "children": [
           {
-            "id": "8826027b182b8b6c",
+            "id": "f2610101894f60b3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "content/posts/me-test-post/index.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.12.7"
+              "icon": "lucide-file",
+              "title": "index.md"
             }
           }
         ]
@@ -179,16 +181,18 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "8826027b182b8b6c",
+  "active": "f2610101894f60b3",
   "lastOpenFiles": [
+    "_ideas/hugo 업로드 가능 .md",
+    "_ideas/생각의 교차점-그래서 뭐 건졌어요?.md",
+    "_ideas/볼펜 잉크 끝까지 써본적있수?.md",
+    "_ideas/지식사육사.유튜브.대본.역할.md",
+    "_ideas/고객의문제를 해결하면.md",
     "content/posts/me-test-post/index.md.md",
     "_ideas/유튜브.기획.ADHD애니메이션.채널컨셉.md",
-    "_ideas/볼펜 잉크 끝까지 써본적있수?.md",
-    "_ideas/무제.md",
     "_ideas/클로드.MCP.웹소설세팅.md",
     "content/posts/me-test-post/무제.canvas",
     "content/posts/me-test-post",
-    "_ideas/고객의문제를 해결하면.md",
     "_ideas/웹소설.기획.남성향무협.md",
     "_ideas/유튜브.기획.지식채널.소재리스트.md",
     "_ideas/유튜브.기획.지식채널.채널컨셉.정체성.md",
@@ -197,12 +201,10 @@
     "_ideas/유튜브.기획.지식채널.수익화방향.타겟설정.md",
     "_ideas/유튜브.기획.지식채널.소재구축프로세스.책활용.md",
     "_ideas/유튜브.기획.지식채널.소재구축프로세스.md",
-    "_ideas/생각의 교차점-그래서 뭐 건졌어요?.md",
     "_ideas/유튜브.기획.지식채널.md",
     "_ideas/싸움의 기술-강냉이펀치.md",
     "_ideas/통찰.문제해결.본질.md",
     "_ideas/AI이용하기-사고의 흐름.md",
-    "_ideas/hugo 업로드 가능 .md",
     "_ideas/환영합니다, 머나먼 인터넷 구석에서.md",
     "_ideas/싸움의기술.md",
     "content/posts/obsidian-ipad-test/index.md",
