@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/me-test-post/index.md.md",
+                "file": "_ideas/싸움의 기술-강냉이펀치.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "싸움의 기술-강냉이펀치"
             }
           }
         ]
@@ -181,8 +181,17 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "1a32a7189572bc55",
+  "active": "f2610101894f60b3",
   "lastOpenFiles": [
+    "_ideas/요약2026-04-18_0123.md\n.rtf",
+    "_ideas/요약2026-04-18_0111.md\n.rtf",
+    "_ideas/생산적인 회피다. 실제로는 본질을 미루면서도 게으른 게 아니라고 스스로를 정당.md",
+    "_ideas/생각의 교차점-그래서 뭐 건졌어요?.md",
+    "_ideas/볼펜 잉크 끝까지 써본적있수?.md",
+    "_ideas/고객의문제를 해결하면.md",
+    "_ideas/hugo 업로드 가능 .md",
+    "_ideas/웹소설.기획.남성향무협.md",
+    "content/posts/me-test-post/index.md.md",
     "_ideas/요약2026-04-18_0110.md\n.txt",
     "_ideas/요약2026-04-18_0109.md\n.txt",
     "_ideas/요약4/18/26, 12:59 AM.md\n-3.rtf",
@@ -191,17 +200,11 @@
     "_ideas/요약4/18",
     "_ideas/요약4",
     "_ideas/요약4/18/26, 12:57 AM.md\n.rtf",
-    "_ideas/hugo 업로드 가능 .md",
-    "_ideas/생각의 교차점-그래서 뭐 건졌어요?.md",
-    "_ideas/볼펜 잉크 끝까지 써본적있수?.md",
     "_ideas/지식사육사.유튜브.대본.역할.md",
-    "_ideas/고객의문제를 해결하면.md",
-    "content/posts/me-test-post/index.md.md",
     "_ideas/유튜브.기획.ADHD애니메이션.채널컨셉.md",
     "_ideas/클로드.MCP.웹소설세팅.md",
     "content/posts/me-test-post/무제.canvas",
     "content/posts/me-test-post",
-    "_ideas/웹소설.기획.남성향무협.md",
     "_ideas/유튜브.기획.지식채널.소재리스트.md",
     "_ideas/유튜브.기획.지식채널.채널컨셉.정체성.md",
     "_ideas/질보다양-이야기 체조-랜덤쓰기.md",
@@ -217,9 +220,6 @@
     "_ideas/싸움의기술.md",
     "content/posts/obsidian-ipad-test/index.md",
     "content/posts/obsidian-Test/index.md",
-    "content/posts/summary-test/index.md",
-    "content/posts/summary-test",
-    "content/posts/obsidian-Test",
     "content/posts/new-obsidian-post/thumbnail.jpg",
     "content/posts/new-obsidian-post/image1.jpg",
     "content/posts/obsidian-Test/thumbnail.jpg",
