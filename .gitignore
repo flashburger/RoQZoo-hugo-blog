@@ -1,1 +1,5 @@
 public/
+.git.nosync/
+public.nosync/
+public
+.obsidian/workspace.json
