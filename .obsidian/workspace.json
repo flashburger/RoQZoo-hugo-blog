@@ -11,10 +11,14 @@
             "id": "44e5ea4662d76f10",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_ideas/복사_2026. 4. 21. 오후 4.29.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "복사_2026. 4. 21. 오후 4.29"
             }
           }
         ]
@@ -179,11 +183,14 @@
   },
   "active": "44e5ea4662d76f10",
   "lastOpenFiles": [
+    "_ideas/복사_2026. 4. 21. 오후 4:26.md",
+    "_ideas/복사_2026. 4. 21. 오후 4.29.md",
+    "content/posts/me-test-post/index.md.md",
+    "_ideas/볼펜 잉크 끝까지 써본적있수?.md",
     "_ideas/복사_2026. 4. 21. 오후 1:34.md",
     "_ideas/복사_2026. 4. 21. 오후 12:57.md",
     "_ideas/복사_Apr 18, 2026 at 10:42 PM.md",
     "_ideas/유튜브.기획.지식채널.소재구축프로세스.책활용.md",
-    "_ideas/볼펜 잉크 끝까지 써본적있수?.md",
     "public.nosync/posts/page/1/index.html",
     "public.nosync/posts/thumbnailtest-01/thumbnail.jpg",
     "public.nosync/posts/thumbnailtest-01/index.html",
@@ -206,7 +213,6 @@
     "_ideas/디자인 레퍼런스 분석 전문 어시스턴트 초안_2026. 4. 21..md",
     "_ideas/복사_2026. 4. 18. 오후 1:55.md",
     "_ideas/맥에서 MP3를 아이폰 오디오북으로 만들기.md",
-    "content/posts/me-test-post/index.md.md",
     "_ideas/Adobe Illustrator.Quick Pen Tool_2026. 4. 21.md",
     "_ideas/통찰.문제해결.본질.md",
     "_ideas/클로드.클로드코드한도가 자꾸 차는 분들 보세요 - 토큰 절약법 정리 - YouTube.md",
@@ -215,8 +221,6 @@
     "_ideas/유튜브.기획.지식채널.md",
     "_ideas/웹소설.기획.남성향무협.md",
     "_ideas/생각의 교차점-그래서 뭐 건졌어요?.md",
-    "_ideas/복사_2026. 4. 18. 오후 2:39.md",
-    "_ideas/복사_2026. 4. 18. 오후 2:22.md",
     "content/posts/me-test-post/무제.canvas",
     "content/posts/new-obsidian-post/thumbnail.jpg",
     "content/posts/new-obsidian-post/image1.jpg",
