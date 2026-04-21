@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "074c70192949d245",
+        "id": "4b4a3d69242fc75a",
         "type": "tabs",
         "children": [
           {
-            "id": "f2610101894f60b3",
+            "id": "25287ce58f301492",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "_ideas/디자인 레퍼런스 분석 전문 어시스턴트 초안_2026. 4. 21..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "디자인 레퍼런스 분석 전문 어시스턴트 초안_2026. 4. 21."
             }
           }
         ]
@@ -177,9 +181,18 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "f2610101894f60b3",
+  "active": "25287ce58f301492",
   "lastOpenFiles": [
+    "_ideas/복사_2026. 4. 18. 오후 1:55.md",
+    "_ideas/복사_2026. 4. 21. 오전 9:58.md",
+    "_ideas/복사_2026. 4. 21. 오전 9:50.md",
+    "_ideas/디자인 레퍼런스 분석 전문 어시스턴트 초안_2026. 4. 21..md",
+    "_ideas/복사_Apr 18, 2026 at 10:42 PM.md",
     "_ideas/고객의문제를 해결하면.md",
+    "_ideas/맥에서 MP3를 아이폰 오디오북으로 만들기.md",
+    "_ideas/복사_2026. 4. 18. 오후 3:47.md",
+    "content/posts/me-test-post/index.md.md",
+    "_ideas/Adobe Illustrator.Quick Pen Tool_2026. 4. 21.md",
     "_ideas/통찰.문제해결.본질.md",
     "_ideas/클로드.클로드코드한도가 자꾸 차는 분들 보세요 - 토큰 절약법 정리 - YouTube.md",
     "_ideas/클로드.MCP.웹소설세팅.md",
@@ -189,10 +202,6 @@
     "_ideas/웹소설.기획.남성향무협.md",
     "_ideas/생각의 교차점-그래서 뭐 건졌어요?.md",
     "_ideas/볼펜 잉크 끝까지 써본적있수?.md",
-    "_ideas/맥에서 MP3를 아이폰 오디오북으로 만들기.md",
-    "_ideas/복사_2026. 4. 18. 오후 3:47.md",
-    "_ideas/복사_Apr 18, 2026 at 10:42 PM.md",
-    "_ideas/복사_2026. 4. 18. 오후 1:55.md",
     "_ideas/복사_2026. 4. 18. 오후 2:39.md",
     "_ideas/복사_2026. 4. 18. 오후 2:22.md",
     "_ideas/복사_2026. 4. 18. 오후 2:07.md",
@@ -200,11 +209,6 @@
     "_ideas/복사_2026. 4. 18. 오후 2:06.md",
     "_ideas/복사_2026. 4. 18. 오후 2:06-2.md",
     "_ideas/복사_2026. 4. 18. 오후 1:52.md",
-    "_ideas/복사_2026. 4. 18. 오후 1:50.md",
-    "_ideas/복사_2026. 4. 18. 오후 1:50-2.md",
-    "_ideas/복사_Apr 18, 2026 at 1:32 PM.md",
-    "_ideas/복사_Apr 18, 2026 at 1:35 PM.md",
-    "_ideas/복사_2026. 4. 18. 오후 1:49-2.md",
     "_ideas/요약_.txt",
     "_ideas/요약_-2.rtf",
     "_ideas/요약_.rtf",
