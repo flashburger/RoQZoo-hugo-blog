@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_ideas/hugo 업로드 가능 .md",
+                "file": "content/posts/me-test-post/index.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hugo 업로드 가능"
+              "title": "index.md"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -157,8 +159,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -171,18 +173,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "1ef0598cf1d94725",
   "lastOpenFiles": [
+    "_ideas/hugo 업로드 가능 .md",
     "_ideas/디자인 레퍼런스 분석 전문 어시스턴트 초안_2026. 4. 21..md",
     "_ideas/고객의문제를 해결하면.md",
     "_ideas/클로드.코드.개인나무위키.안드레카파시.md",
@@ -207,7 +210,6 @@
     "public.nosync/posts/thumbnailtest-01",
     "public.nosync/posts/page",
     "_ideas/복사_2026. 4. 21. 오전 9:58.md",
-    "_ideas/hugo 업로드 가능 .md",
     "_ideas/Claude Code 2.0 Just Dropped (Cowork Killer?) - YouTube.md",
     "_ideas/Untitled.md",
     "_ideas/복사_2026. 4. 18. 오후 3:47.md",
