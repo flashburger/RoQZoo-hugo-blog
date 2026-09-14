@@ -5,7 +5,6 @@ baseURL = 'https://flashburger.github.io/RoQZoo-hugo-blog/'
 languageCode = 'ko-kr'
 title = '日常雜記'
 theme = 'PaperMod'
-author = 'RoQZoo'
 copyright = '© 2026 日常雜記'
 
 # =========================================================================
@@ -13,6 +12,7 @@ copyright = '© 2026 日常雜記'
 # =========================================================================
 [params]
 # 👇 전역 메타 설명을 [params] 블록 안에 추가했습니다.
+author = "RoQZoo"
 Description = "Hugo와 PaperMod를 사용하여 구축된 개인 기술 블로그입니다. 웹 개발 팁, 학습 기록 등을 공유합니다."
 defaultTheme = "auto"
 ShowReadingTime = false
