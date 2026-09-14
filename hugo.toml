@@ -5,6 +5,8 @@ baseURL = 'https://flashburger.github.io/RoQZoo-hugo-blog/'
 languageCode = 'ko-kr'
 title = '日常雜記'
 theme = 'PaperMod'
+author = 'RoQZoo'
+copyright = '© 2026 日常雜記'
 
 # =========================================================================
 # PaperMod 테마 파라미터 설정
